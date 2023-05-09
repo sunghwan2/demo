@@ -9,7 +9,7 @@
 
 # OnnPlayer - Video streamig Player for Unity WebGL
 
-<p  style="margin-left:auto;margin-right:auto"  width="300px"  align="left"> OnnPlayer™ for Unity is a Adaptive bit rate video streaming player for WebGL based Unity games and apps supported on Chome and Safari on Android, iOS, Windows and macOS. OnnPlayer's Unity video plugin also supports **Widevine DRM-protected** HLS & DASH streaming on **Chrome** and **Fairplay DRM-protected** HLS streaming on **Safari**.
+<p  style="margin-left:auto;margin-right:auto"  width="300px"  align="left"> OnnPlayer™ for Unity is a Adaptive bit rate video streaming player for WebGL based Unity games and apps supported on Chome and Safari on Android, iOS, Windows and macOS. OnnPlayer's Unity video plugin also supports <b>Widevine DRM-protected</b> HLS & DASH streaming on <b>Chrome</b> and <b>Fairplay DRM-protected</b> HLS streaming on <b>Safari</b>.
 
   
 
@@ -139,6 +139,8 @@ We support the following features:
 
 ## Supported Platforms
 
+  
+  
   
 
 | Platform | Supported Graphics APIs | HLS | DASH | Fair Play | Widevine |
