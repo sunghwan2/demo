@@ -7,13 +7,13 @@
 
 </br>
 
+# OnnPlayer - Video streamig Player for Unity WebGL
+
+<p  style="margin-left:auto;margin-right:auto"  width="300px"  align="left"> OnnPlayer™ for Unity is a Adaptive bit rate video streaming player for WebGL based Unity games and apps supported on Chome and Safari on Android, iOS, Windows and macOS. OnnPlayer's Unity video plugin also supports **Widevine DRM-protected** HLS & DASH streaming on **Chrome** and **Fairplay DRM-protected** HLS streaming on **Safari**.
+
   
 
-OnnPlayer™ for Unity is a Adaptive bit rate video streaming player for WebGL based Unity games and apps supported on Chome and Safari on Android, iOS, Windows and macOS. OnnPlayer's Unity video plugin also supports **Widevine DRM-protected** HLS & DASH streaming on **Chrome** and **Fairplay DRM-protected** HLS streaming on **Safari**.
-
-  
-
-This repository contains the OnnPlayer™ Unity  WebGL video streaming player plugin features list as well as an installation guide. If you want to get a copy of our fully working demo, contact us at [Onnet Systems](https://www.onnetsystems.net/contact.html).
+This repository contains the OnnPlayer™ Unity  WebGL video streaming player plugin features list as well as an installation guide. If you want to get a copy of our fully working demo, contact us at [Onnet Systems](https://www.onnetsystems.net/contact.html).</p>
 
   
 
@@ -29,13 +29,8 @@ This repository contains the OnnPlayer™ Unity  WebGL video streaming player pl
 
 ## [Our Unity Use Cases](https://d1j2x89u6hjw6s.cloudfront.net/)
 
-  
 
-| | |
-
-|:-------------------------:|:-------------------------:|
-
-|<img  src="./resources/metaverse.gif"  width="95%"  height="95%"> WebGL: Browser-based metaverses|
+<img  src="./resources/metaverse.gif"  width="95%"  height="95%"> WebGL: Browser-based metaverses|
 
   
 
@@ -146,19 +141,14 @@ We support the following features:
 
   
 
-| Platform | Supported Graphics APIs | HLS | DASH | Inside App (Streaming Assets) | DRM protection |
-
-| :-----:| :-----:| :-----:| :-----:| :-----:| :-----:| :-----:|
-
-| Android | OpenGLES2, OpenGLES3 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-
-| iOS | Metal | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-
-| Windows | DirectX11 / DirectX12 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-
-|macOS|Metal|:heavy_check_mark:||:heavy_check_mark:|:heavy_check_mark:|
-
-|HTML 5|WebGL 1.0 / WebGL 2.0|:heavy_check_mark:|:heavy_check_mark:|||
+| Platform | Supported Graphics APIs | HLS | DASH | Fair Play | Widevine |
+|--|--|--|--|--|--|--|
+| Android chrome | WebGL 2.0 | :heavy_check_mark: | :heavy_check_mark: | | :heavy_check_mark: | :heavy_check_mark: |
+| iOS Chrome | WebGL 2.0 | :heavy_check_mark: | :heavy_check_mark: |  | :heavy_check_mark: | :heavy_check_mark: |
+| Windows Chrome | WebGL 2.0 | :heavy_check_mark: | :heavy_check_mark: |  | :heavy_check_mark: |
+|macOS Chrome|WebGL 2.0|:heavy_check_mark:|:heavy_check_mark:||:heavy_check_mark:|HTML 5|WebGL 1.0 / WebGL 2.0|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+|iOS Safari|WebGL 2.0|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+|macOS Safari|WebGL 2.0|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:||
   
   
 
