@@ -139,18 +139,14 @@ We support the following features:
 
 ## Supported Platforms
 
-  
-  
-
 | Platform | Supported Graphics APIs | HLS | DASH | Fair Play | Widevine |
-| :-----:| :-----:| :-----:| :-----:| :-----:| :-----:| :-----:|
+| :-----:| :-----:| :-----:| :-----:| :-----:| :-----:|
 | Android chrome | WebGL 2.0 | :heavy_check_mark: | :heavy_check_mark: | | :heavy_check_mark: | :heavy_check_mark: |
 | iOS Chrome | WebGL 2.0 | :heavy_check_mark: | :heavy_check_mark: |  | :heavy_check_mark: | :heavy_check_mark: |
 | Windows Chrome | WebGL 2.0 | :heavy_check_mark: | :heavy_check_mark: |  | :heavy_check_mark: |
 |macOS Chrome|WebGL 2.0|:heavy_check_mark:|:heavy_check_mark:||:heavy_check_mark:|
 |iOS Safari|WebGL 2.0|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 |macOS Safari|WebGL 2.0|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:||
-  
   
 
 ## Demo Installation Guide
